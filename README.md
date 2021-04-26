@@ -1,7 +1,7 @@
 
-# Paper-2-Data (April 2021)
+# Digital Jersey Paper-2-Data (May 2021)
 
-This repository contains the presentation, code and associated files used in the April 2021 Paper 2 Data AI presentation to the Jersey financial services community.
+This repository contains the presentation, code and associated files used in the May 2021 Paper 2 Data AI presentation for Digital Jersey.
 
 The PDF version of the presentation is in the root folder and the various Jupyter notebooks containing the Python code used to demonstrate various Natural Language Processing techniques on legal contracts are in the folder named 'code'.
 
