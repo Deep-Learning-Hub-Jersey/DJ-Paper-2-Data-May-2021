@@ -129,3 +129,11 @@ dmypy.json
 .pyre/
 
 .DS_Store
+
+*.svg
+
+code/p2d-NER-Fine-Tune-Transformer-Final-roberta-base/
+
+code/p2d-NER-Fine-Tune-Transformer-roberta-base/
+
+code/wandb/
