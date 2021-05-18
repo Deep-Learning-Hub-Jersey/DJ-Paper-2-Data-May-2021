@@ -137,3 +137,7 @@ code/p2d-NER-Fine-Tune-Transformer-Final-roberta-base/
 code/p2d-NER-Fine-Tune-Transformer-roberta-base/
 
 code/wandb/
+
+code/lightning_logs/version_1/
+
+code/lightning_logs/version_0/
